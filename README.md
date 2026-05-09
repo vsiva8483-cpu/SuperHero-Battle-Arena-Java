@@ -3,12 +3,12 @@
 --------------------------------------------------------------------------------------------------------------------------------------
 🚀 A creative Core Java OOP Project designed to simulate an action-packed superhero battle arena using powerful Object-Oriented Programming concepts.
 This project was built to deeply understand how real-world software systems use:
-✨ Abstraction
-✨ Inheritance
-✨ Runtime Polymorphism
-✨ Encapsulation
-✨ Method Overriding
-✨ Constructor Chaining
+-✨ Abstraction
+-✨ Inheritance
+-✨ Runtime Polymorphism
+-✨ Encapsulation
+-✨ Method Overriding
+-✨ Constructor Chaining
 instead of just memorizing Java syntax.
 ----------------------------------------------------------------------------------------------------
 🎯 Project Objective
